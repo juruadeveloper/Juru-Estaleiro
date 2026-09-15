@@ -67,7 +67,7 @@ Nossas iniciativas no GitHub estão voltadas para a digitalização e otimizaç�
 
   🌐 **Website:** <a href="https://juruaestaleiro.com.br" target="_blank">juruaestaleiro.com.br</a><br>
   💼 **LinkedIn:** <a href="#" target="_blank">Juruá Estaleiro e Navegação</a><br>
-  📧 **Contato Técnico/Engenharia:** `dev@juruaestaleiro.com.br`<br>
+  📧 **Contato Técnico:** `suporte@juruaestaleiro.com.br`<br>
   🏢 **Sede:** Manaus/AM — Brasil
 
 </p>
