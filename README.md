@@ -1,6 +1,9 @@
 <div align="center">
 
   <h1>⚓ Juruá Estaleiro e Navegação</h1>
+  
+  <img width="1020" height="541" alt="background" src="https://github.com/user-attachments/assets/19825b46-e578-49f5-ae2e-569d1357f373" />
+
   <p><strong>Engenharia Naval, Logística Fluvial e Inovação na Bacia Amazônica</strong></p>
 
   <p>📍 Manaus, Amazonas — Brasil</p>
